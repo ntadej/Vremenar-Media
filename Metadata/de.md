@@ -17,7 +17,8 @@ Einfache und schnelle Wettervorhersage auf einer Karte (SLO & DE).
 ## Medium/promotional description (max 170 char.)
 
 Stellt die Wetterlage und die Vorhersage auf einer Landkarte dar
-(nur für Slowenien & Deutschland!).
+(Slowenien & Deutschland).
+
 Anzeige von Wetterlage, Niederschlag, Temperatur, UV-Strahlung und mehr!
 
 --------------------------------------------------------------------------------
@@ -29,7 +30,7 @@ Achtung: Derzeit wird nur das Wetter für Deutschland und Slowenien unterstützt
 Stellt die Wetterlage und die Vorhersage auf einer Landkarte einfach
 und schnell dar. Anzeige von allgemeiner Wetterlage, Regenradar, Bewölkung,
 Windgeschwindigkeit, Temperatur, UV-Strahlung und Hagelwahrscheinlichkeit
-auf Karten (derzeit nicht für alle Länder unterstützt)
+auf Karten (derzeit nicht für alle Länder unterstützt).
 Die App zeigt auch das Wetter am aktuellen Standort an.
 
 Die Wetterdaten stammen von der Slovenian Environment Agency (ARSO) und von
